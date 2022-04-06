@@ -3,7 +3,7 @@ let etapas = [{
         numeros: 5,
         candidatos: [{
                 numero: '38111',
-                nome: 'Wilian Rockfeler',
+                nome: 'Willian Rockfeler',
                 partido: 'QQQ',
                 fotos: [
                     { url: '38111.jpg', legenda: 'Vereador', small: false }
